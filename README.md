@@ -1,6 +1,6 @@
 # AI Chatbot
 
-A full-stack AI chatbot using React and FastAPI, powered by OpenAI's GPT-3.5 Turbo.
+A full-stack AI chatbot using React and FastAPI, powered by OpenAI's GPT-3.5 Turbo. Watch this video for guidance: https://youtu.be/sIJT8y8xtvA
 
 ## Project Structure
 
